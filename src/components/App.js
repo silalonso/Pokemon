@@ -8,6 +8,7 @@ const App = () => {
   console.log(pokemons);
   return (
     <div>
+      <h1 className='titulo'> Mi lista de Pokemons </h1>
       <PokeList pokemons={losPokemons} />
     </div>
   );
