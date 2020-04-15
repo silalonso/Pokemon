@@ -2,26 +2,20 @@ import React from 'react';
 import '..//stylesheets/App.css';
 import pokemons from '../data/pokemons.js';
 
-const Pokemon = () => {
-  const pokemonLis = pokemons.map((pokemon) => {
-    return (
-      <li key={pokemon.id}>
-        <img src={pokemon.url} alt={pokemon.name} />
-        <p>{pokemon.name}</p>
-        <ul>
-          {pokemon.types.map(function algo(type) {
-            return <li> {type}</li>;
-          })}
-        </ul>
-      </li>
-    );
-  });
-
+const Pokemon = (props) => {
+  console.log(props);
+  console.log(props.pokemon.name);
+  // const pokemon = pokemons.map((pokemon) => {
   return (
-    <div>
-      Mi lista de Pokemons
-      <ul>{pokemonLis}</ul>
-    </div>
+    <>
+      <img src={props.pokemon.url} alt={props.name} />
+      <p>{props.pokemon.name}</p>
+      <ul>
+        {props.pokemon.types.map(function algo(type) {
+          return <li key={type.index}>{type}</li>;
+        })}
+      </ul>
+    </>
   );
 };
 
