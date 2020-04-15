@@ -3,9 +3,9 @@ import '..//stylesheets/App.css';
 import pokemons from '../data/pokemons.js';
 
 const Pokemon = () => {
-  const pokemonLis = pokemons.map((pokemon, index) => {
+  const pokemonLis = pokemons.map((pokemon) => {
     return (
-      <li key={index}>
+      <li key={pokemon.id}>
         <img src={pokemon.url} alt={pokemon.name} />
         <p>{pokemon.name}</p>
         <ul>
