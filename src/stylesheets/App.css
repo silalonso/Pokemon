@@ -13,6 +13,9 @@
   background-color: white;
   border: 0.1875rem solid blue;
 }
+#enabled {
+  background-color: blueviolet;
+}
 
 .container {
   list-style: none;

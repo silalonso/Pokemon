@@ -1,13 +1,12 @@
-import React from 'react';
+import React, { useState } from 'react';
 import '..//stylesheets/App.css';
-import pokemons from '../data/pokemons.js';
 
 const Pokemon = (props) => {
-  console.log(props);
-  console.log(props.pokemon.name);
-  // const pokemon = pokemons.map((pokemon) => {
+  const [disabled, setEnabled] = useState(true);
+  const clicked = disabled ? '' : 'enabled';
+
   return (
-    <li className='card'>
+    <li className='card' id={clicked} onClick={() => setEnabled(!disabled)}>
       <img src={props.pokemon.url} alt={props.name} />
       <p className='name'>{props.pokemon.name}</p>
       <ul>
