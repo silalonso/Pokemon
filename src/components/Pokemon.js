@@ -6,7 +6,7 @@ const Pokemon = (props) => {
   const clicked = disabled ? '' : 'enabled';
 
   return (
-    <li className='card' id={clicked} onClick={() => setEnabled(!disabled)}>
+    <div className='card' id={clicked} onClick={() => setEnabled(!disabled)}>
       <img src={props.pokemon.url} alt={props.name} />
       <p className='name'>{props.pokemon.name}</p>
       <ul>
@@ -14,7 +14,7 @@ const Pokemon = (props) => {
           return <li key={type.index}>{type}</li>;
         })}
       </ul>
-    </li>
+    </div>
   );
 };
 
