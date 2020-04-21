@@ -13,7 +13,7 @@
   background-color: white;
   border: 0.1875rem solid blue;
 }
-#enabled {
+.enabled {
   background-color: blueviolet;
 }
 
