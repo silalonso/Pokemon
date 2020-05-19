@@ -31,3 +31,10 @@
   font-size: 1rem;
   text-transform: capitalize;
 }
+.logo {
+  display: flex;
+  justify-content: center;
+}
+.hola {
+  width: 600px;
+}
