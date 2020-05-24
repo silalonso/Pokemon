@@ -1,12 +1,26 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 # Pokedesk
 
-![alt text](https://raw.githubusercontent.com/silalonso/modulo-3-evaluacion-intermedia-silalonso
-/master/pokedex.jpg)
+This is a Pokedex app.
+You can find a lot of pokemons (soon more to come!).
 
-This is a Pokedesk app.
-You can find a lot of Pokemons.
+![This is how the app looks like](https://raw.githubusercontent.com/silalonso/modulo-3-evaluacion-intermedia-silalonso/src/images/pokedex.jpg)
+
+When you hover over a pokemon, the the pokemon's card is highlighted.
+
+You can click a pokemon if you like, and the background of its card will change its color.
+If you click again, the background color will be removed.
+
+![Normal state of the pokemon](https://raw.githubusercontent.com/silalonso/modulo-3-evaluacion-intermedia-silalonso/src/images/normal.jpg)
+
+This is pokemon's normal state.
+
+![On hover, highlighted state](https://raw.githubusercontent.com/silalonso/modulo-3-evaluacion-intermedia-silalonso/src/images/highlighted.jpg)
+
+This is pokemon's highlighted state.
+
+![Clicked state](https://raw.githubusercontent.com/silalonso/modulo-3-evaluacion-intermedia-silalonso/src/images/clicked.jpg)
+
+This is the clicked state, with the background on a diferent color as the normal state.
 
 ## Getting Started
 
@@ -22,6 +36,12 @@ You will also see any lint errors in the console.
 
 ## Learn More
 
+This project was coded by Silvia.
+
 ## Contributing
+
+If you want to contribute, you can make a pull request.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 To learn React, check out the [React documentation](https://reactjs.org/).

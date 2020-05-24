@@ -27,7 +27,6 @@
 }
 
 #enabled {
-  /* background-color: blueviolet; */
   background-color: #ccff00;
 }
 
@@ -51,7 +50,7 @@
 .logo {
   display: flex;
   justify-content: center;
-  background-image: url(../grass.jpg);
+  background-image: url(../images/grass.jpg);
   background-position: 0%;
 }
 .hola {

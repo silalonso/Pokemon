@@ -1,6 +1,6 @@
 import React from 'react';
 import '..//stylesheets/App.css';
-import pokelogo from '../pokelogo.png';
+import pokelogo from '../images/pokelogo.png';
 
 function Background() {
   return (

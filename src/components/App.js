@@ -11,7 +11,7 @@ const App = () => {
   return (
     <div>
       <Background />
-      <h1 className='titulo'> Personal pokédex </h1>
+      <h1 className='titulo'> Personal pokedex </h1>
       <PokeList pokemons={losPokemons} />
     </div>
   );
