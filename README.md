@@ -2,6 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Pokedesk
 
+![alt text](https://raw.githubusercontent.com/silalonso/modulo-3-evaluacion-intermedia-silalonso
+/master/src/pokedex.jpg)
+
 This is a Pokedesk app.
 You can find a lot of Pokemons.
 
