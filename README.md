@@ -3,22 +3,22 @@
 This is a Pokedex app.
 You can find a lot of pokemons (soon more to come!).
 
-![This is how the app looks like](https://raw.githubusercontent.com/silalonso/modulo-3-evaluacion-intermedia-silalonso/src/images/pokedex.jpg)
+![This is how the app looks like](https://raw.githubusercontent.com/silalonso/modulo-3-evaluacion-intermedia-silalonso/master/src/images/pokedex.jpg)
 
 When you hover over a pokemon, the the pokemon's card is highlighted.
 
 You can click a pokemon if you like, and the background of its card will change its color.
 If you click again, the background color will be removed.
 
-![Normal state of the pokemon](https://raw.githubusercontent.com/silalonso/modulo-3-evaluacion-intermedia-silalonso/src/images/normal.jpg)
+![Normal state of the pokemon](https://raw.githubusercontent.com/silalonso/modulo-3-evaluacion-intermedia-silalonso/master/src/images/normal.jpg)
 
 This is pokemon's normal state.
 
-![On hover, highlighted state](https://raw.githubusercontent.com/silalonso/modulo-3-evaluacion-intermedia-silalonso/src/images/highlighted.jpg)
+![On hover, highlighted state](https://raw.githubusercontent.com/silalonso/modulo-3-evaluacion-intermedia-silalonso/master/src/images/highlighted.jpg)
 
 This is pokemon's highlighted state.
 
-![Clicked state](https://raw.githubusercontent.com/silalonso/modulo-3-evaluacion-intermedia-silalonso/src/images/clicked.jpg)
+![Clicked state](https://raw.githubusercontent.com/silalonso/modulo-3-evaluacion-intermedia-silalonso/master/src/images/clicked.jpg)
 
 This is the clicked state, with the background on a diferent color as the normal state.
 
