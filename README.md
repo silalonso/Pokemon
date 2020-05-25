@@ -1,5 +1,5 @@
-[![Made by Silvia Alonso](https://www.linkedin.com/in/silvia-alonso-pozas/)](https://img.shields.io/badge/made%20by-Silvia%20Alonso-pink)
-[![With React.js](https://reactjs.org/)](https://img.shields.io/badge/with-React.js-blue)
+[![Made by Silvia Alonso](https://img.shields.io/badge/made%20by-Silvia%20Alonso-pink)](https://www.linkedin.com/in/silvia-alonso-pozas/)
+[![With React.js](https://img.shields.io/badge/with-React.js-blue)](https://reactjs.org/)
 [![GitHub followers](https://img.shields.io/github/followers/silalonso.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/silalonso?tab=followers)
 [![Twitter](https://img.shields.io/twitter/follow/silvia_coding.svg?style=social&label=@:silvia_coding)](https://twitter.com/silvia_coding)
 
@@ -111,7 +111,7 @@ Feel free to check issues page if you want to contribute.
 This project was coded by me with :sparkling_heart: <br />
 Who I'm I? :raising_hand: <br />
 My name is Silvia <br />
-I come from :es:, and I can communicate also in :gb:, :de: and :fr:.
+I come from :es:, and I can communicate also in :gb:, :de: and :fr:. <br />
 [![GitHub followers](https://img.shields.io/github/followers/silalonso.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/silalonso?tab=followers)
 
 ## :memo: License
