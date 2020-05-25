@@ -1,4 +1,4 @@
-[![Made by Silvia Alonso](https://www.linkedin.com/in/silvia-alonso-pozas/)](https://img.shields.io/badge/made%20by-Silvia-Alonso-pink)
+[![Made by Silvia Alonso](https://www.linkedin.com/in/silvia-alonso-pozas/)](https://img.shields.io/badge/made%20by-Silvia%20Alonso-pink)
 [![With React.js](https://reactjs.org/)](https://img.shields.io/badge/with-React.js-blue)
 [![GitHub followers](https://img.shields.io/github/followers/silalonso.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/silalonso?tab=followers)
 [![Twitter](https://img.shields.io/twitter/follow/silvia_coding.svg?style=social&label=@:silvia_coding)](https://twitter.com/silvia_coding)
