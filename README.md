@@ -1,5 +1,6 @@
 ![Made by Silalonso](https://img.shields.io/badge/made%20by-silalonso-pink)
 ![With React](https://img.shields.io/badge/with-REACT-blue)
+[![GitHub followers](https://img.shields.io/github/followers/silalonso.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/silalonso?tab=followers)
 [![Twitter](https://img.shields.io/twitter/follow/silvia_coding.svg?style=social&label=@:silvia_coding)](https://twitter.com/silvia_coding)
 
 # :sparkles: Welcome to my Pokedex :sparkles:
@@ -28,6 +29,7 @@ This is the clicked state, with the background on a diferent color than the norm
 
 ## :file_folder: Folder structure
 
+```
 /
 |-docs
 |-node_modules
@@ -42,11 +44,11 @@ This is the clicked state, with the background on a diferent color than the norm
 |
 |-data
 | |- pokemons.js
-|  
+|
 |-images
-|  
+|
 |-stylesheets
-|  
+|
 |-index.scss
 |-index.js
 |-serviceworker.j
@@ -59,22 +61,26 @@ This is the clicked state, with the background on a diferent color than the norm
 |
 \
 
-## If you want this project
+```
+
+## To run this project
 
 This project has been created with Create React App.
 You will need to have Node.js installed and start the application with React using the following commands:
 
-### `npm install -g create-react-app`
+#### `npm install -g create-react-app`
 
-### `create-react-app my-react-project`
+#### `create-react-app my-react-project`
 
 Don't forget to install local dependencies using npm install.
 
 Also, you will need to install:
 
-    1. React Route:  ### `npm install --save react-router-dom`
+    1. React Route:
+    #### `npm install --save react-router-dom`
 
-    2. SASS ### `npm install node-sass`
+    2. SASS:
+    #### `npm install node-sass`
 
 For more information on how to start a project with React and its scripts, visit [React documentation](https://reactjs.org/)
 
@@ -96,18 +102,18 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## :handshake: Contributing
 
-If you want to contribute, you can make a pull request.
-Contributions, issues and feature requests are welcome.
+If you want to contribute, you can open a pull request.<br />
+Contributions, issues and feature requests are welcome.<br />
 Feel free to check issues page if you want to contribute.
 
 ## Author
 
-This project was coded by me with :sparkling_heart:
-Who I'm I? :raising_hand:
-My name is Silvia
-I come from :es:, and I can communicate also in :en:, :fr: and :de:.
+This project was coded by me with :sparkling_heart: <br />
+Who I'm I? :raising_hand: <br />
+My name is Silvia <br />
+I come from :es:, and I can communicate also in :gb:, :fr: and :de:.
 
 ## :memo: License
 
-Copyright © 2020 Silvia Alonso.
-This project is MIT licensed.
+Copyright © 2020 Silvia Alonso. <br />
+This project is MIT licensed. [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
