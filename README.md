@@ -27,30 +27,23 @@ This is pokemon's normal state.
 
 This is the clicked state, with the background on a diferent color than the normal state.
 
-## To run this project
+## :wrench: To run this project
 
-This project has been created with Create React App. <br />
-**You will need to have Node.js installed** and start the application with React using the following commands:
+**You need to have Node.js installed** <br />
 
-#### `npm install -g create-react-app`
+Clone or download the repository in your computer.<br />
 
-#### `create-react-app my-react-project`
-
-Don't forget to install local dependencies using npm install.
+To install local dependencies, type:
 
 #### `npm install`
 
-Also, you will need to install:
-
-    1. React Route:
+Also, you need to install React Route and SASS::
 
 #### `npm install --save react-router-dom`
 
-    2. SASS:
-
 #### `npm install node-sass`
 
-In the project directory, you can run:
+In the project directory, type:
 
 #### `npm start`
 
@@ -59,6 +52,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.<br />
+
+Have pokefun!
+
+![Pokemon having fun](https://raw.githubusercontent.com/silalonso/modulo-3-evaluacion-intermedia-silalonso/master/src/images/grupofeliz70.jpg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -118,3 +115,5 @@ I come from :es:, and I can communicate also in :gb:, :de: and :fr:. <br />
 
 Copyright © 2020 [Silvia Alonso](https://www.linkedin.com/in/silvia-alonso-pozas/). <br />
 This project is MIT licensed. [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+![Pokemon group of characters](https://raw.githubusercontent.com/silalonso/modulo-3-evaluacion-intermedia-silalonso/master/src/images/grupo35.jpg)
