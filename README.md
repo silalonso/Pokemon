@@ -8,7 +8,7 @@
 This is a Pokedex app.<br />
 You will find a lot of pokemons (soon more to come!).
 
-Try it here : [try my Pokedex](https://silalonso.github.io/modulo-3-evaluacion-intermedia-silalonso/)
+Try it here : [try my Pokedex](https://silalonso.github.io/Pokemon/)
 
 ![This is how the app looks like](https://raw.githubusercontent.com/silalonso/modulo-3-evaluacion-intermedia-silalonso/master/src/images/pokedex.jpg)
 
