@@ -3,7 +3,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/silalonso.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/silalonso?tab=followers)
 [![Twitter](https://img.shields.io/twitter/follow/silvia_coding.svg?style=social&label=@:silvia_coding)](https://twitter.com/silvia_coding)
 
+<h1 align="center"> 
 # :sparkles: Welcome to my Pokedex :sparkles:
+</h1>
 
 This is a Pokedex app.<br />
 You will find a lot of pokemons (soon more to come!).
@@ -85,7 +87,7 @@ For more information on how to start a project with React and its scripts, visit
 |
 |-index.scss
 |-index.js
-|-serviceworker.j
+|-serviceworker.js
 |
 |
 |-.gitignore
